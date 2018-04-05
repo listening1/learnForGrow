@@ -8,5 +8,12 @@
     <artifactId>lslin</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.vertx</groupId>
+            <artifactId>vertx-core</artifactId>
+            <version>3.5.1</version>
+        </dependency>
+    </dependencies>
 
 </project>
