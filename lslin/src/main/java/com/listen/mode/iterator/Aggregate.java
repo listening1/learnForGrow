@@ -1,4 +1,4 @@
-package com.mode.iterator;
+package com.listen.mode.iterator;
 
 public interface Aggregate {
     public abstract Iterator iterator();
